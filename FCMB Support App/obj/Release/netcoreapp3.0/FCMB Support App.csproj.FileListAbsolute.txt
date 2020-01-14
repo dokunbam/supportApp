@@ -1,0 +1,416 @@
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\appsettings.Development.json
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\appsettings.json
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.StaticWebAssets.xml
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.exe
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.deps.json
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.runtimeconfig.json
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.pdb
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.Views.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.Views.pdb
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\staticwebassets\FCMB Support App.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\staticwebassets\FCMB Support App.StaticWebAssets.xml
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorComponent.input.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\App.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\AddClients.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\AddIssues.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Clients.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\ClientsForm.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Edit.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Pagination.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Search.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\FCMB Support App.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.TagHelpers.input.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.TagHelpers.output.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\App.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\AddClients.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\AddIssues.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Clients.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\ClientsForm.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Edit.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Error.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Index.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Pagination.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Search.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\_Imports.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.AssemblyInfo.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.Views.pdb
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.csproj.CopyComplete
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\Deploring\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.pdb
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\appsettings.Development.json
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\appsettings.json
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.StaticWebAssets.xml
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.exe
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.deps.json
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.runtimeconfig.json
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.pdb
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.Views.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\FCMB Support App.Views.pdb
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Blazor.HttpClient.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\SQLitePCLRaw.core.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\System.Text.Json.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\bin\Release\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\staticwebassets\FCMB Support App.StaticWebAssets.Manifest.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\staticwebassets\FCMB Support App.StaticWebAssets.xml
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorComponent.input.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\App.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\AddClients.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\AddIssues.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Clients.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\ClientsForm.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Edit.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Error.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Pagination.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Pages\Search.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Shared\LoginDisplay.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\RazorDeclaration\FCMB Support App.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.TagHelpers.input.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.TagHelpers.output.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\App.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\AddClients.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\AddIssues.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Clients.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\ClientsForm.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Edit.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Error.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Index.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Pagination.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Search.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Shared\LoginDisplay.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\_Imports.razor.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.AssemblyInfo.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.Views.pdb
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.csproj.CopyComplete
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.dll
+C:\Users\DELL\Desktop\FCMB Support App folder\New folder\FCMB Support App\obj\Release\netcoreapp3.0\FCMB Support App.pdb

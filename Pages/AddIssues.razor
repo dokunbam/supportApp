@@ -1,0 +1,58 @@
+﻿@page "/issues"
+
+@inject IssuesController issuesController
+@inject NavigationManager navigationManager
+@inject HttpClient http
+@inject AuthenticationStateProvider AuthenticationStateProvider
+
+@code {
+    Issue Issues = new Issue();
+    string BaseUrl = "http://localhost:54888/fcmb/issue/";
+
+
+    async Task PostIssue()
+    {
+        await http.PostJsonAsync(BaseUrl + "post", Issues);
+        Issues.IssueName = string.Empty;
+        Issues.Resolution = string.Empty;
+    }
+}
+
+
+
+
+
+
+
+<div class="row">
+    <div class="col-md-7">
+        <div class="card" style="width: 30rem;">
+            @*<img src="..." class="card-img-top" alt="...">*@
+            <div class="card-body">
+                <h5 class="card-title">Add Issues</h5>
+                <EditForm Model="@Issues" OnValidSubmit="@PostIssue">
+                    <DataAnnotationsValidator />
+
+                    <div class="form-group">
+                        <label for="IssuesName">Issues</label>
+                        <input type="text" class="form-control" form="Name" @bind="@Issues.IssueName" id="IssuesName" placeholder="What is the issue">
+                        <ValidationMessage For="@(()=>Issues.IssueName)" />
+                    </div>
+
+
+                    <div class="form-group">
+                        <label for="Resolution">Resolution</label>
+                        <textarea class="form-control" id="resolution" @bind="@Issues.Resolution" rows="3" placeholder="What is the resolution"></textarea>
+                        <ValidationMessage For="@(()=>Issues.Resolution)" />
+                    </div>
+
+                    <button type="submit" class="btn btn-outline-primary">Add Issue</button>
+                </EditForm>
+
+
+
+            </div>
+        </div>
+    </div>
+
+</div>

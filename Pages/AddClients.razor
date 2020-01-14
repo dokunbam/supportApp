@@ -1,0 +1,38 @@
+﻿<h3>Clients</h3>
+@page "/addclients"
+
+@using Microsoft.AspNetCore.Http
+
+@inject ClientsController clientsController
+@inject NavigationManager  navigationManager
+
+
+@code {
+
+    Client clientObj = new Client();
+
+    List<FCMB_Support_App.Models.Client> clients { get; set; }
+
+
+
+    //method to post client
+    protected async Task PostClient()
+    {
+        await clientsController.PostClients(clientObj);
+
+        navigationManager.NavigateTo("/clients");
+    }
+}
+
+<AuthorizeView>
+    <Authorized>
+        <ClientsForm ButtonText="Add Client" Clients="clientObj" OnValidSubmit="@PostClient" />
+    </Authorized>
+    <NotAuthorized>
+        Please login to view this page
+    </NotAuthorized>
+    </AuthorizeView>
+        <!--Add clients -->
+       
+
+

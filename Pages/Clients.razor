@@ -1,0 +1,165 @@
+﻿
+@page "/clients"
+
+@using Microsoft.AspNetCore.Http
+@using System.IO
+@using System.Text.Json
+
+@inject ClientsController clientsController
+@inject NavigationManager  navigationManager
+@inject AuthenticationStateProvider AuthenticationStateProvider
+
+@inject HttpClient http
+
+
+
+@code {
+
+    Client clientObj = new Client();
+    PaginationDTO pagination = new PaginationDTO();
+
+    List<FCMB_Support_App.Models.Client> clients { get; set; }
+    private int totalPageQuantity;
+    private int currentPage = 1;
+    private string nameFilter = string.Empty;
+
+
+    protected async Task GetClients(int page = 1, int quantityPerpage = 10)
+    //http://localhost:54888/fcmb/clients
+    {
+        //clients = await http.GetJsonAsync<List<Client>>($"http://localhost:54888/fcmb/clients?page={page}&quantityPerPage={quantityPerpage}");
+
+        var httpResponse = await http.GetAsync($"http://localhost:54888/fcmb/clients?page={page}&quantityPerPage={quantityPerpage}&name={nameFilter}");
+        if (httpResponse.IsSuccessStatusCode)
+        {
+            totalPageQuantity = int.Parse(httpResponse.Headers.GetValues("pagesQuantity").FirstOrDefault());
+            var responseString = await httpResponse.Content.ReadAsStringAsync();
+            clients = JsonSerializer.Deserialize<List<Client>>(responseString,
+                new JsonSerializerOptions() { PropertyNameCaseInsensitive = true });
+
+
+        }
+        else { }
+
+        //clients = await clientsController.GetAllClients(pagination);
+    }
+
+    protected async Task SearchListItem()
+    {
+        var result = await clientsController.Search(clientObj);
+
+
+    }
+
+    //method to post client
+    protected async Task PostClient()
+    {
+        await clientsController.PostClients(clientObj);
+
+        navigationManager.NavigateTo("/clients");
+    }
+
+    //This will run when the page loads
+    protected override async Task OnInitializedAsync()
+    {
+        await GetClients();
+    }
+
+    private async Task SelectedPage(int page)
+    {
+        currentPage = page;
+        await GetClients(page);
+    }
+
+    private async Task Filter()
+    {
+        currentPage = 1;
+        await GetClients();
+    }
+
+    private async Task Clear()
+    {
+        nameFilter = string.Empty;
+        currentPage = 1;
+        await GetClients();
+    }
+}
+
+
+@*<EditForm Model="@clientObj" OnValidSubmit="@SearchListItem">
+        <div class="form-group">
+            <input type="text" form="Name" @bind="@clientObj.Name" placeholder="Search Issues" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-secondary">Search Issues</button>
+    </EditForm>*@
+
+<AuthorizeView>
+    <Authorized>
+        <h3>Clients</h3>
+
+        <div class="row">
+            <div class="col-md-6">
+                <a type="button" class="btn btn-primary" href="addclients">
+                    Add Client
+                </a>
+            </div>
+            <div class="col-md-6 offset-3">
+                <div class="form-inline">
+                    <div class="form-group">
+                        <label for="issues" class="sr-only">Issues</label>
+                        <input type="text" class="form-control" @bind="nameFilter" name="issues" placeholder="Filter Names">
+                    </div>
+                    <button type="submit" class="btn btn-primary mb-2" @onclick="Filter">Filter</button>
+                    <button type="submit" class="btn btn-success ml-2 mb-2" @onclick="Clear">Clear</button>
+                </div>
+            </div>
+        </div>
+
+
+        @*<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addClients">
+            Add Client
+        </button>*@
+
+        @if (clients == null)
+        {
+            <p><em>Loading...</em></p>
+        }
+        else
+        {
+            <table class="table table table-striped">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Address</th>
+                        <th>Phone</th>
+                        <th>Edit Actions</th>
+                        <th>Delete Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var client in clients)
+                    {
+                        <tr>
+                            <td>@client.Name</td>
+                            <td>@client.Email</td>
+                            <td>@client.Address</td>
+                            <td>@client.Phone</td>
+                            <td><a class="btn btn-warning" href="/client/edit/@client.ClientId">Edit</a></td>
+                            <td><a class="btn btn-danger" href="/client/delete/@client.ClientId">Delete</a></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+
+        <Pagination TotalPagesQuantity="totalPageQuantity" CurrentPage="currentPage" Radius="2" SelectedPage="SelectedPage"></Pagination>
+
+    </Authorized>
+    <NotAuthorized>
+       Please login to view this page
+
+    </NotAuthorized>
+</AuthorizeView>
+
+

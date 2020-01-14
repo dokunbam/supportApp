@@ -1,0 +1,76 @@
+﻿@page "/search"
+
+@inject IssuesController issuesController
+
+
+@code {
+    private string searchTerm;
+    private List<Issue> issues;
+
+    async Task SearchIssues()
+    {
+        issues = await issuesController.SearchIssuesAsync(searchTerm);
+    }
+}
+    <AuthorizeView>
+        <Authorized>
+            <div class="row mt-5 mb-5">
+                <div class="col-md-2">
+        
+                </div>
+                <div class="col-md-8">
+                    <div class="card" style="width: 40rem;">
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label for="card-header">Search</label>
+                                <input type="text" class="form-control" @bind-value="@searchTerm" id="text" placeholder="Search Issue" required>
+                            </div>
+                            <input type="button" class="btn btn-success" value="Search" @onclick="@SearchIssues" />
+                        </div>
+                    </div>
+             
+                </div>
+                <div class="col-md-2">
+
+                </div>
+            </div>
+
+            @{
+                @if (issues == null)
+                {
+                    <p><em>No search result yet.. Search something</em></p>
+                }
+                else if (issues.Count < 0)
+                {
+                    <p>Wow!.. There are not issues at this time</p>
+                }
+                else
+                {
+                    <table class="table table-striped">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th>Name</th>
+                                <th>Resolution</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var issue in issues)
+                            {
+                                <tr>
+                                    <td>@issue.IssueName.</td>
+                                    <td>@issue.Resolution</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                }
+
+            }
+        </Authorized>
+        <NotAuthorized>
+            <a href="Identity/Account/Register">Register</a> or 
+            <a href="Identity/Account/Login">Log in</a> to view this page
+        </NotAuthorized>
+    </AuthorizeView>
+
+            

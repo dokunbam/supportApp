@@ -1,0 +1,31 @@
+﻿@page "/client/edit/{ClientId:int}"
+
+@inject ClientsController clientsController
+@inject NavigationManager  navigationManager
+
+@using FCMB_Support_App.Controllers
+@using FCMB_Support_App.Models
+
+
+<h3>Search</h3>
+
+
+@code {
+    [Parameter] public int clientId { get; set; }
+    Client Clients = new Client();
+
+    //protected async Task UpdateClient()
+    //{
+    //    var oneclient = await clientsController.OneClient(clientId);
+
+    //}
+
+    async Task EditClient()
+    {
+        await clientsController.PutClient(clientId, Clients);
+    }
+
+
+}
+
+<ClientsForm ButtonText="Edit Client" Clients="Clients" OnValidSubmit="@EditClient" />
